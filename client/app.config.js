@@ -8,15 +8,15 @@ angular
         $stateProvider
             .state('login', {
                 url: '/login',
-                templateUrl: 'views/login.html',
+                templateUrl: 'views/login.view.html',
                 controller: 'LoginController'
             }).state('home', {
                 url: '/home',
-                templateUrl: 'views/home.html',
+                templateUrl: 'views/home.view.html',
                 controller: 'HomeController'
             }).state('register', {
                 url: '/register',
-                templateUrl: 'views/register.html',
+                templateUrl: 'views/register.view.html',
                 controller: 'RegisterController'
             });
 
