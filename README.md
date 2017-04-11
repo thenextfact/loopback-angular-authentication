@@ -22,3 +22,6 @@ Steps:
 Don't Forget to fork and star
 
 Happy Coding!!
+
+
+[Tutorial Link](http://www.thenextfact.com/loopback-authentication-loopback-angularjs-user-registration-and-login-example-and-tutorial/)
